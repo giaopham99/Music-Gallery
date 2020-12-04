@@ -1,0 +1,77 @@
+cs1302-gallery:
+total 280
+-rw-r--r-- 1 ugrad     33 Apr  4 17:29 EXTRA.md
+-rw-r--r-- 1 ugrad    212 Mar 24 17:00 Makefile
+-rw-r--r-- 1 ugrad   2094 Mar 24 17:00 pom.xml
+-rw-r--r-- 1 ugrad 218613 Apr  3 12:57 profilePic.jpg
+-rw-r--r-- 1 ugrad  41325 Mar 25 10:29 README.md
+-rw-r--r-- 1 ugrad      0 Apr  5 11:08 rec31456
+drwxr-xr-x 3 ugrad   4096 Mar 24 17:00 src
+drwxr-xr-x 5 ugrad   4096 Apr  5 10:48 target
+
+cs1302-gallery/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 24 17:00 main
+
+cs1302-gallery/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 24 17:00 java
+
+cs1302-gallery/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 24 17:00 cs1302
+
+cs1302-gallery/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr  5 10:50 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 24
+-rw-r--r-- 1 ugrad 8818 Apr  4 18:03 GalleryApp.java
+-rw-r--r-- 1 ugrad  790 Mar 24 17:00 GalleryDriver.java
+-rw-r--r-- 1 ugrad 7571 Apr  5 10:50 ImageGallery.java
+
+cs1302-gallery/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Apr  5 10:48 classes
+drwxr-xr-x 3 ugrad 4096 Apr  5 10:48 generated-sources
+drwxr-xr-x 3 ugrad 4096 Apr  5 10:48 maven-status
+
+cs1302-gallery/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr  5 10:48 cs1302
+
+cs1302-gallery/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr  5 11:02 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 28
+-rw-r--r-- 1 ugrad 8936 Apr  5 11:02 GalleryApp.class
+-rw-r--r-- 1 ugrad 1126 Apr  5 11:02 GalleryDriver.class
+-rw-r--r-- 1 ugrad 8336 Apr  5 11:02 ImageGallery.class
+
+cs1302-gallery/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr  5 10:48 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr  5 10:48 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr  5 10:48 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr  5 10:48 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad 101 Apr  5 11:02 createdFiles.lst
+-rw-r--r-- 1 ugrad 239 Apr  5 10:48 inputFiles.lst
+/home/ugrads/pham/cs1302-gallery:/home/work/cs1302a
